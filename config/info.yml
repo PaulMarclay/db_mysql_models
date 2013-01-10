@@ -1,0 +1,15 @@
+# Plugin information
+name: "Mysql Models"
+description: "Plugin para manejo de base de datos MySQL."
+version: "2.0"
+framework_version: "2.0"
+dependencies: "db_base db_relations db_validators"
+notes: ""
+# Author information
+author: "Paul Marclay"
+email: "paul.eduardo.marclay@gmail.com"
+site: ""
+# Legal information
+company: "Dolem Labs"
+copyright: "(c) 2012 - Paul Marclay"
+license: "GNU GENERAL PUBLIC LICENSE"
